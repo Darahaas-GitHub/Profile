@@ -4,6 +4,10 @@ This is a professional profile. It has all the details one can use to asses my a
 Some of the certificates are attached in the profile.
 Others can be checked at my LeetCode, Kaggle, Google Skills and Unity.
 
+Kaggle: https://www.kaggle.com/srisaidarahaas
+LeetCode: https://leetcode.com/u/iQbWdTQnBM/
+GoogleSkills: https://www.skills.google/public_profiles/b978aa8b-56d3-4b2e-a212-08c9f823cce5 
+
 I also am comfortable in C, Python, SQL, C++.
 
 I work/have skills in the following fields:
@@ -13,4 +17,5 @@ I work/have skills in the following fields:
      a. Post-Quantum Cryptography.
      b. Quantum Computing using Qiskit.
      c. Quantum Computing in Cybersecurity.
-  3. Game Development using Unity Engine.    
+  3. Game Development using Unity Engine.
+  4. Web-Development using HTML/CSS and JS.    
